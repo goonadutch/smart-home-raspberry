@@ -19,4 +19,5 @@ python ./start.py
 
 ### Checkout the below image for the connection 
 
-![20230723_111233 - Copy]
+
+![image](https://github.com/goonadutch/smart-home-raspberry/assets/96746217/c92ebf37-f3dc-470e-8110-26859ae1e519)
